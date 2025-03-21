@@ -1,0 +1,65 @@
+{
+  "companyName": "I Scream Inc.",
+  "headOffice": "South Pole, Antarctica",
+  "established": 2001,
+  "active": true,
+  "topFlavors": [
+    {
+      "name": "Monstrous Mint",
+      "calories": 400,
+      "type": "ice cream",
+      "ingredients": [
+        "peppermint cream",
+        "dark chocolate chips",
+        "vanilla extract"
+      ],
+      "image": "chocolate-mint.svg"
+    },
+    {
+      "name": "Perfect Peach Mango",
+      "calories": 350,
+      "type": "sorbet",
+      "ingredients": [
+        "peach purée",
+        "mango chunks",
+        "clover honey"
+      ],
+      "image": "peach-mango.svg"
+    },
+    {
+      "name": "Caramel Twist",
+      "calories": 1200,
+      "type": "ice cream",
+      "ingredients": [
+        "real cream",
+        "heavy caramel",
+        "cane sugar",
+        "sea salt"
+      ],
+      "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Matcha Mojo",
+      "calories": 800,
+      "type": "ice cream",
+      "ingredients": [
+        "synthetic cream",
+        "light caramel",
+        "sugar cane",
+        "seasoning salt"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Lemon Leisure",
+      "calories": 500,
+      "type": "soft serve",
+      "ingredients": [
+        "lemons given by life",
+        "chocolate shreddies",
+        "foot fungus"
+      ],
+      "image": "ice-cream-xtra2.svg"
+    }
+  ]
+}
